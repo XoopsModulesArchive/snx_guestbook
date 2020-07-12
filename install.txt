@@ -1,0 +1,13 @@
+MS-Weather for xoops v2
+
+Version 0.1.1 by NGUYEN DINH Quoc-Huy (SnAKes)
+	- using www.weather.com
+	- block support
+	- 10 days forecast
+
+INSTALLATION:
+	- unpack the archive into XOOPS_ROOT_PATH/modules/ directories
+	- the SnX-Weather module must be in in XOOPS_ROOT_PATH/modules/snx_weather/
+	- Don't forget to set the cache directory permissions (chmod 777).
+	- There is no need for database
+	- Edit and modify the config file snxweather_conf.php
